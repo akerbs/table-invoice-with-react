@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1",
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.5"
   }
 }
